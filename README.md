@@ -27,10 +27,7 @@ config/
 app.js
 
 # ▶️ Run the Server
-
-
-node app.js
-
+npx nodemon app.js
 
 # 🔗 API Endpoints
 
